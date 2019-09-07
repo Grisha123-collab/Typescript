@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cce1c246-1f2d-46b2-b5e0-df1bf316d098" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5_Classes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_guards.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5_Classes.ts">
+        <entry file="file://$PROJECT_DIR$/6_guards.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+            <state relative-caret-position="476">
+              <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -39,6 +39,7 @@
         <option value="$PROJECT_DIR$/3_enum.ts" />
         <option value="$PROJECT_DIR$/4_function.ts" />
         <option value="$PROJECT_DIR$/5_Classes.ts" />
+        <option value="$PROJECT_DIR$/6_guards.ts" />
       </list>
     </option>
   </component>
@@ -136,12 +137,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567874393545</updated>
-      <workItem from="1567874395230" duration="12024000" />
+      <workItem from="1567874395230" duration="12566000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12024000" />
+    <option name="totallyTimeSpent" value="12566000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="760" y="0" width="520" height="984" extended-state="0" />
@@ -231,8 +232,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/5_Classes.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+        <state relative-caret-position="243">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_guards.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
         </state>
       </provider>
     </entry>
